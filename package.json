@@ -1,6 +1,7 @@
 {
 	"author": "Stefan Ramach",
 	"name": "fcc-learn-npm-package-json",
+	"description": "I play with node.js and learning this kind of stuff.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
