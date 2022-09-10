@@ -14,5 +14,9 @@
 	},
 	"engines":{
 	  "node": "13.12.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/stefanramac/managing-packages-with-NPM"
 	}
   }
