@@ -1,16 +1,16 @@
 {
-  "name": "fcc-express-bground",
+  "name": "ramach",
   "version": "0.0.6",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/freeCodeCamp/fcc-express-bground-pkg.git"
+    "url": "https://github.com/freeCodeCamp/fcc-express-bground-pkg.git"
   },
   "bugs": {
     "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
   },
   "homepage": "https://github.com/freeCodeCamp/fcc-express-bground-pkg#readme",
   "author": "freeCodeCamp <team@freecodecamp.org>",
-  "main": "server.js",
+  "main": "index.js",
   "keywords": [
     "freeCodeCamp",
     "boilerplate",
@@ -21,11 +21,6 @@
   "license": "(BSD-3-Clause AND CC-BY-SA-4.0)",
   "engines":{
 	  "node": "13.12.0"
-	},
-  "dependencies": {
-	  "body-parser": "^1.15.2",
-	  "cookie-parser": "^1.4.3",
-	  "express": "^4.14.0",
-	  "fcc-express-bground": "https://github.com/freeCodeCamp/fcc-express-bground-pkg.git"
-	}
+  }
+
 }
